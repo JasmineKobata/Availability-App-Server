@@ -1,0 +1,22 @@
+com/myavailabilityapp/server/ErrorUtils.java
+ com.myavailabilityapp.server.ErrorUtils
+com/myavailabilityapp/server/JsonFactory.java
+ com.myavailabilityapp.server.JsonFactory
+com/myavailabilityapp/server/Vector2f.java
+ com.myavailabilityapp.server.Vector2f
+com/myavailabilityapp/server/MyHttpHandler.java
+ com.myavailabilityapp.server.MyHttpHandler
+com/myavailabilityapp/server/SerializableObjects/AvailabilityData.java
+ com.myavailabilityapp.server.SerializableObjects.AvailabilityData
+com/myavailabilityapp/server/SerializableObjects/Client.java
+ com.myavailabilityapp.server.SerializableObjects.Client
+com/myavailabilityapp/server/Database.java
+ com.myavailabilityapp.server.Database
+com/myavailabilityapp/server/Server.java
+ com.myavailabilityapp.server.Server
+com/myavailabilityapp/server/HandlerFactory.java
+ com.myavailabilityapp.server.HandlerFactory
+com/myavailabilityapp/server/SerializableObjects/Group.java
+ com.myavailabilityapp.server.SerializableObjects.Group
+com/myavailabilityapp/server/SerializableObjects/Event.java
+ com.myavailabilityapp.server.SerializableObjects.Event
